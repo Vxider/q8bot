@@ -1,5 +1,8 @@
 documentation_private/
 releases/
+downloads/**/*.zip
+downloads/q8bot_hw_v2_5/hw-v2.5/
+downloads/q8bot_hw_v2_5/jlc_smt_upload/
 firmware/tests/
 .claude/
 .vscode/
